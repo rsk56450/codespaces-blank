@@ -1,0 +1,15 @@
+.back_learn{
+    background-color: aqua;
+
+    color: rgba(200, 36, 36, 1)
+
+}
+.box{
+    height: 100px; width:100px;
+    
+}
+
+#box1{
+    background-color: red;
+    background-image: url(../cycus\ leaf.jpg);
+}
